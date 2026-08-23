@@ -73,3 +73,5 @@ This project was created as a practical **Excel Data Analytics portfolio project
 
 ## 👤 About Me
 I'm Amanaganti Venkateswarlu, a B.Tech (AIML) graduate and aspiring Data Analyst from India. This is part of my data analytics portfolio showcasing skills in Excel, Power BI, SQL.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/amanaganti-venkateswarlu-520404200)
